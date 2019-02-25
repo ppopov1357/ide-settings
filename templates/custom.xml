@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="start" value="getStepLogger().startStep(&quot;$END$&quot;);&#10;&#10;getStepLogger().endStep();" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

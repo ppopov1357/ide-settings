@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="feature" type="Cucumber" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="demoCfdCustomerRequest" type="PLAIN_TEXT" />
       <mapping pattern="production.properties" type="PLAIN_TEXT" />
       <mapping pattern="demoEquityCustomerRequest" type="PLAIN_TEXT" />

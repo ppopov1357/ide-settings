@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="error" value="@Error(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="error" value="@Error(&quot;$END$&quot;)" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

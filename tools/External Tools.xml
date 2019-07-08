@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\peter.popov\scoop\shims\allure" />
       <option name="PARAMETERS" value="serve target\allure-results\" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scoop/shims" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/peter.popov/scoop/shims" />
     </exec>
   </tool>
 </toolSet>

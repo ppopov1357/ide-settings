@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Maven_6fce26c3webclient-47bdc6331compile">
+        <abbreviation name="compile" />
+      </action>
+      <action id="Maven_6fce26c3webclient-47bdc6331clean">
+        <abbreviation name="clean" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

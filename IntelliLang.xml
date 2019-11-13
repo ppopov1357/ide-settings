@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="java">
+      <display-name>DriverUtils.executeScript (com.trader.automation.webclient4.utils)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("executeScript").withParameters("org.openqa.selenium.WebDriver", "java.lang.String", "java.lang.Object...").definedInClass("com.trader.automation.webclient4.utils.DriverUtils"))]]></place>
+    </injection>
+  </component>
+</application>

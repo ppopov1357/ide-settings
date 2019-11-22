@@ -1,11 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="demoEquityCustomerRequest" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="production.properties" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="Footer" type="JavaScript" />
       <mapping pattern="demoCfdCustomerRequest" type="PLAIN_TEXT" />
+      <mapping pattern="Layout" type="PLAIN_TEXT" />
+      <mapping pattern="production.properties" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="demoEquityCustomerRequest" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

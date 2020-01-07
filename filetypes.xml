@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="liveNlCustomer" type="JSON" />
       <mapping pattern="Footer" type="JavaScript" />
       <mapping pattern="demoCfdCustomerRequest" type="PLAIN_TEXT" />
       <mapping pattern="Layout" type="PLAIN_TEXT" />

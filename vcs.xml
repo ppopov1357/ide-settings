@@ -6,6 +6,10 @@
           <option name="url" value="http://git.trading212.io" />
           <option name="userName" value="peter.popov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ppopov1357@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

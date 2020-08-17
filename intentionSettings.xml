@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Scala/Type/Toggle Type Annotation" />
   </component>
 </application>

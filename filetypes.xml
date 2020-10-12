@@ -4,12 +4,12 @@
       <mapping pattern="Dockerfile.agent" type="Dockerfile" />
       <mapping pattern="Dockerfile2" type="Dockerfile" />
       <mapping ext="master" type="Dockerfile" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="person2" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tlp" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="person" type="PLAIN_TEXT" />
+      <mapping pattern="person2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
